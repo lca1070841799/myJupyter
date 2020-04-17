@@ -1,4 +1,4 @@
-*.data
-*.ipynb_checkpoints
-/data/
-/output/
+/.data
+/.ipynb_checkpoints
+/data
+/output
